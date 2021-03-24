@@ -1,0 +1,9 @@
+# hidden files or directories, except gitignore
+.*
+!.gitignore
+!.github
+
+*.class
+*.iml
+out/
+target/
